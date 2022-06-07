@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{467:function(e,t,n){"use strict";n.r(t);n(26),n(94);var o={layout:"other",beforeCreate:function(){this.$router.replace({name:"association-list"})}},r=n(15),component=Object(r.a)(o,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,"fcdf3fe4",null);t.default=component.exports}}]);
