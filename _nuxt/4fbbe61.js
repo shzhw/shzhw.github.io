@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{467:function(e,t,n){"use strict";n.r(t);n(26),n(94);var r={layout:"other",beforeCreate:function(){this.$router.replace({name:"member-list"})}},o=n(15),component=Object(o.a)(r,(function(){var e=this.$createElement;return(this._self._c||e)("div")}),[],!1,null,"f5072c24",null);t.default=component.exports}}]);
